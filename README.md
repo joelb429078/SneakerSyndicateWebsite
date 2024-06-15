@@ -34,13 +34,7 @@ This project is a full-featured e-commerce website focused on fashion, clothing,
 - **Username:** anniegurr@sneakersyndicate.org
 - **Password:** Pass@04
 ### Regular Customers
-- **Username:** anniegurr@sneakersyndicate.org
-- **Password:** Pass@04
 - **Username:** joelbiju04@gmail.com
-- **Password:** Pass@04
-- **Username:** rajhabidt@gmail.com
-- **Password:** Pass@04
-- **Username:** bijuchacko@gmail.com
 - **Password:** Pass@04
 - **Username:** nathansebastian@gmail.com
 - **Password:** Pass@04
